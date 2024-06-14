@@ -1,4 +1,4 @@
-This is Python script for ZX Cherry keyboard testing. It must be connected to Raspberry Pi via ZX Berry board
+This is Python script for ZX Cherry keyboard testing.
 
 #### How to use
 
